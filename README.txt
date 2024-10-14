@@ -1,14 +1,8 @@
 
 TITLE: 
-Shop - 100% Fully Responsive Free HTML5 Bootstrap Template
+Shop - 100% Fully Responsive Bootstrap 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
 
 CREDITS:
 
